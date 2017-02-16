@@ -1,0 +1,237 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+body, html {
+    height: 100%;
+    line-height: 1.8;
+}
+
+.logo-home {
+    display: block;
+    width: 700;
+    min-width: 300;
+}
+
+.w3-top {
+    background-color: #1a1a1a;
+    height: 60;
+    text-align: center;
+    color: white;
+    font-size: 14;
+}
+
+.w3-top a {
+    margin: 0 25;
+}
+
+.navigacija {
+    margin-top: 18;
+}
+
+.skriti-nav {
+    margin-top: 18;
+    margin-left: -100;
+}
+
+#navDemo {
+    margin-top: 17;
+}
+
+.w3-navbar {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.bgimg-1, .bgimg-2 {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgimg-1 {
+    background-image: url('https://static1.squarespace.com/static/56c36d979f7266b6a2b464c4/t/56cba672e32140833fc4e8fc/1456186995786/featured47@wdd2x.jpg?format=1500w');
+    min-height: 100%;
+}
+
+.bgimg-2 {
+    background-image: url('https://s-media-cache-ak0.pinimg.com/originals/e1/42/90/e142903291621b622fbe99e5b74a4b78.jpg');
+}
+
+.ikona {
+    width: 50;
+    margin: 5 3;
+    opacity: 0.8;
+}
+
+.storitve {
+    background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZBg5sJdq8fL0WwZeU7iBvcsID7fhh00RzqojCj4Y1pBDc_Ciraw");
+    background-size: cover;
+    margin: 0;
+    border-top: 2px solid black;
+    color: white;
+}
+
+.storitve h1 {
+    margin: 100 0 70 0;
+}
+
+.text-storitve {
+    margin: 15 0 120 0;
+}
+
+.title {
+    border-bottom: 2px solid white;
+}
+
+.box-storitve {
+    display: inline-block;
+    
+}
+
+.border-servis {
+    display: inline-block;
+    margin: 0 40;
+    border: 2px solid white;
+    border-radius: 100%;
+    width: 120;
+    height: 120;
+}
+
+.ikona-servis {
+    width: 80;
+    margin-top: 16;
+}
+
+.nase-delo {
+    text-align: center;
+    color: #1a1a1a;
+    margin-top: 100;
+    margin-bottom: 120;
+}
+
+.text-nase-delo {
+    margin-top: 25;
+    margin-bottom: 25;
+}
+
+.slike-nase-delo img {
+    display: inline-block;
+    width: 33%;
+    min-width: 350;
+    margin: 3 0;
+}
+
+.o-nas {
+    color: black;
+    background: white;
+    margin-top: 100;
+    margin-bottom: 100;
+}
+
+.o-nas h1 {
+    margin-top: 60;
+}
+
+.text-o-nas {
+    width: 75%;
+    margin: 40 auto 25 auto;
+}
+
+.slika-casopis {
+    width: 50%;
+    margin: 15 auto 75 auto;
+    border: 1px solid grey;
+    font-size: 10;
+}
+
+.slika-casopis p {
+    margin: 7 auto 5 auto;
+}
+
+.odrezek-slika {
+    width: 100%;
+}
+
+.title2 {
+    border-bottom: 2px solid black;
+}
+
+.faq {
+    background-image: url("http://cdn.wallpapersafari.com/62/97/DlfY08.jpg");
+    background-size: cover;
+}
+
+.faq h1 {
+    text-align: center;
+    color: #1a1a1a;
+    margin: 15 auto 35 auto;
+}
+
+.harmonika {
+    margin-top: 80;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding-top: 15;
+    background-color: rgba(159, 159, 159, 0.7);
+}
+
+.panel-default {
+    border: 1px solid black;
+}
+
+.panel-title {
+    text-transform: uppercase;
+}
+
+.footer {
+    background-color: white;
+    margin: 0 auto 100 auto;
+    
+}
+
+.footer h1 {
+    margin-top: 30;
+    color: #1a1a1a;
+}
+
+.foot-box {
+    margin-bottom: 30;
+}
+
+.foot-box p {
+    margin: 0 auto;
+}
+
+.foot-box label {
+    font-weight: lighter;
+    margin: 0 auto;
+    font-size: 14;
+}
+
+.foot-box-levi {
+    text-align: left;
+    padding: 40 20 0 40;
+}
+
+.foot-box-desni {
+    text-align: left;
+    padding: 25 40 0 40;
+}
+
+.height-100 {
+    height: 80;
+}
+
+.footer2 {
+    background-color: #1a1a1a;
+    color: white;
+    font-size: 12;
+}
+
+.footer2 p {
+    margin: 20 auto;
+}
