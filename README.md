@@ -1,10 +1,7 @@
 # About
 
-Basic GAE project with Jinja templating engine
+AC Stanic - car workshop - GAE web application.
 
-# Usage
+- stran je še v izdelavi..
 
-1. Click on Download ZIP
-2. Save on your disk and unzip
-3. Change the application ID in app.yaml
-4. Build something nice ;)
+url: http://ac-stanic.appspot.com/
